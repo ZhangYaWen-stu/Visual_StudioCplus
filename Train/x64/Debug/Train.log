@@ -1,0 +1,10 @@
+﻿  Test2_Method.cpp
+  Test3_Method.cpp
+  Test4_Method.cpp
+  Test5_Method.cpp
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\Train\Test5_Method.h(189,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Test_Main.cpp
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\Train\Test5_Method.h(189,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Test1_Method.cpp
+  正在生成代码...
+  Train.vcxproj -> E:\Files\Sundry\Codeblocks - learning\Visual Studio\Train\x64\Debug\Train.exe

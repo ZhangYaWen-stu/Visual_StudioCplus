@@ -1,0 +1,18 @@
+﻿  mystring.cpp
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(15,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(14,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(23,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(62,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(61,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(69,58): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(71,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(72,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(75,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(86,55): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(88,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(89,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(92,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(155,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(154,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\oop2\mystring.cpp(82): warning C4172: 返回局部变量或临时变量的地址: s
+  oop2.vcxproj -> E:\Files\Sundry\Codeblocks - learning\Visual Studio\oop2\oop2\x64\Debug\oop2.exe

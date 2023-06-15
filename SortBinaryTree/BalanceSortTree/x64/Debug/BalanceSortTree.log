@@ -1,0 +1,3 @@
+﻿  Main.cpp
+E:\Files\Sundry\Codeblocks - learning\Visual Studio\SortBinaryTree\BalanceSortTree\BalanceTree.h(607): warning C4715: “BinarySortTree<int>::AdjustLsize”: 不是所有的控件路径都返回值
+  BalanceSortTree.vcxproj -> E:\Files\Sundry\Codeblocks - learning\Visual Studio\SortBinaryTree\BalanceSortTree\x64\Debug\BalanceSortTree.exe

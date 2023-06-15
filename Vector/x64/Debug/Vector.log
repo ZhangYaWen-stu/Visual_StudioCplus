@@ -1,0 +1,4 @@
+﻿  res.cpp
+D:\Files\Wechat\WeChat Files\wxid_vkvdyh36z2nl22\FileStorage\File\2022-10\res.cpp(49): warning C4172: 返回局部变量或临时变量的地址: a
+D:\Files\Wechat\WeChat Files\wxid_vkvdyh36z2nl22\FileStorage\File\2022-10\res.cpp(51): warning C4172: 返回局部变量或临时变量的地址: a
+  Vector.vcxproj -> E:\Files\Sundry\Codeblocks - learning\Visual Studio\Vector\x64\Debug\Vector.exe

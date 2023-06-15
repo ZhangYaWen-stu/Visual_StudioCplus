@@ -1,0 +1,1 @@
+#include"Test6_Method.h"
